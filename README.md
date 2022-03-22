@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OliverV-WD
 - 👀 I’m interested in Web Desing, Languages, Philosophy...
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 📫 How to reach me on olivervicent.wd@gmail.com
+- 📫 You can reach me on olivervicent.wd@gmail.com
 
 <!---
 OliverV-WD/OliverV-WD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
