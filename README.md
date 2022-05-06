@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @OliverV-WD
-- 👀 I’m interested in Web Desing, Languages, Philosophy...
+- 👋 Hi there !  I’m @OliverV-WD
+- 🌃 I work as Web Developer & Designer
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 📫 You can reach me on olivervicent.wd@gmail.com
-
-<!---
-OliverV-WD/OliverV-WD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🦾 These are my recenply creations :
+  
+ 	◻️ https://personalplus.com.ve
+  ◻️ https://oliverv-wd.github.io/summermarket.github.io/
+  ◻️ https://oliverv-wd.github.io/thehugecompany.github.io/
+  
+- 🔍 you can find me on
+   	✔️ https://wa.me/+584247894210
+                      or
+    📩 mailto:olivervicent.wd@gmail.com
