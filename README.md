@@ -1,7 +1,7 @@
 - 👋 Hi there !  I’m @OliverV-WD
-- 🌃 I work as Web Developer & Designer
+- 🌃 I work as Web Developer & Designer especialized on Wordpress
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 🦾 These are my recenply creations :
+- 🦾 These are my recently creations :
   
  	◻️ https://personalplus.com.ve <br>
   ◻️ https://oliverv-wd.github.io/summermarket.github.io/ <br>
