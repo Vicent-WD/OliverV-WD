@@ -1,6 +1,6 @@
 - 👋 Hi there !  I’m @OliverV-WD
 - 🌃 I work as Web Developer & Designer especialized on Wordpress
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning PHP, HTML, CSS and Javascript
 - 🦾 These are my recently creations :
   
      <a href="https://personalplus.com.ve" target="_blank" >❤️ Wedding & Event Planner WebSite</a> <br>
