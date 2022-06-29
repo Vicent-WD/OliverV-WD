@@ -1,6 +1,6 @@
 - 👋 Hi there !  I’m @OliverV-WD
 - 🌃 I work as Web Developer & Designer especialized on Wordpress
-- 🌱 I’m currently learning PHP, HTML, CSS and Javascript
+- 🌱 I’m currently developing Apps and Websites with Wordpress, PHP, HTML, CSS, Bootstrap and Javascript
 - 🦾 These are my recently creations :
   
      <a href="https://oliverv-wd.github.io/Agencia.github.io/" target="_blank">    🛍️ Marketing Agency</a> <br>
