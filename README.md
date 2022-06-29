@@ -9,6 +9,7 @@
      <a href="https://oliverv-wd.github.io/thehugecompany.github.io/" target="_blank" >    🚧 Contractor Company's WebSite</a> <br>
      <a href="https://oliverv-wd.github.io/summermarket.github.io/" target="_blank" >    🥑 Grocery's Store WebSite</a> <br>
      <a href="https://oliverv-wd.github.io/rush.github.io/" target="_blank" >    📰 New´s WebSite</a> <br>
+     <a href="https://oliverv-wd.github.io/QuikLandingPage.github.io/" target="_blank" >    📲 App Site (Just HTML, CSSS and Javascript)</a> <br>
      
 
   
