@@ -1,4 +1,4 @@
-- 👋 Hi there !  I’m @OliverV-WD
+- 👋 Hi there !  I’m @Vicent-WD
 - 🌃 I work as Web Developer & Designer especialized on Wordpress
 - 🌱 I’m currently developing Apps and Websites with Wordpress, PHP, HTML, CSS, Bootstrap and Javascript
 - 🦾 These are my recently creations :
